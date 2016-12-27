@@ -168,7 +168,7 @@
      inkscape:cx="1293.6711"
      inkscape:cy="1023.8367"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1234"
      inkscape:window-height="756"
@@ -321,20 +321,7 @@
          x="413.76459"
          y="-774.65308"
          id="tspan4043">/ région</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2989"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(12.104303,-435.1497)"><flowRegion
-         id="flowRegion2991"><rect
-           id="rect2993"
-           width="322.85712"
-           height="77.142853"
-           x="80"
-           y="272.36218"
-           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara2995"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Présidentielle</flowPara></flowRoot>    <text
+    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="423.02927"
@@ -1229,13 +1216,13 @@
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1139.1592"
+       x="1085.1592"
        y="-518.08173"
        id="text4545"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4547"
-         x="1139.1592"
+         x="1085.1592"
          y="-518.08173"
          style="font-size:40px">Président</tspan></text>
     <flowRoot
@@ -1291,7 +1278,7 @@
          id="tspan3271">suivant sujet des réunions)</tspan></text>
     <image
        y="-559.53137"
-       x="1042.2266"
+       x="988.22662"
        id="image4653"
        xlink:href="data:image/png;base64,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 "
        height="62"
@@ -1299,12 +1286,12 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1084.8438"
+       x="1030.8438"
        y="-471.63364"
        id="text4691"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1084.8438"
+         x="1030.8438"
          y="-471.63364"
          id="tspan4695"
          style="font-size:32px;text-align:center;text-anchor:middle">2,5 ans</tspan></text>
@@ -2087,6 +2074,18 @@
          x="1536.1332"
          y="787.19446"
          id="tspan3476">       département</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3410"
+       y="-118.9052"
+       x="418.98868"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         y="-118.9052"
+         x="418.98868"
+         id="tspan3412"
+         sodipodi:role="line">Présidentielle</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2170,7 +2169,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
-       d="M 2234.7759,354.39946 C 662.9761,423.95131 718.93547,409.17538 718.93547,409.17538 l 13.99857,96.56856 13.79551,79.22261"
+       d="M 2198.4104,362.48068 C 626.61061,432.03253 718.93547,409.17538 718.93547,409.17538 l 13.99857,96.56856 13.79551,79.22261"
        id="path7648"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -2212,7 +2211,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL);display:inline"
-       d="m 2174.356,876.37886 c 30.3046,-74.75129 56.5685,-167.68532 56.5685,-167.68532"
+       d="m 2162.2342,856.17581 c 42.4264,-54.54824 76.7716,-200.0102 76.7716,-200.0102"
        id="path9372"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
